@@ -44,7 +44,7 @@
 |Problem: |Something to be solved or improved upon. Opportunities can also be 'problems'. This starts the design thinking process.|
 |Product:| Often we use 'product' in this course to mean any type of solution, including services and processes. May also be used for true products such as physical products (e.g. kitchen appliance, passenger vehicle) or digital products (e.g. smartphone app, website).|
 |Prototype (noun):| An early model, representation, or sample of something. Used to test and/or get feedback on an idea.|
-|Prototype (verb): The act of testing your model/sample to get feedback.|
+|Prototype (verb): |The act of testing your model/sample to get feedback.|
 |Prototyping stage:| The third and final grouping of substages of the design thinking process. Includes Substage 6: Iterative Prototyping and Substage 7: Testing and Refinement. In this stage you test your ideas with users to refine them to the most appropriate solution.|
 |Qualitative data/research:| Uses words and images as data with a focus on exploration and interpretation (e.g. interview, observation). Analyzed by themes. The type of research done most often in design thinking.|
 |Quantitative data/research: |Uses numbers as data with a focus on finding relationships and making predictions (e.g. surveys, polls). Uses statistical analysis.|
