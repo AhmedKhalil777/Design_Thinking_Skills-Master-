@@ -48,7 +48,7 @@
 |Prototyping stage:| The third and final grouping of substages of the design thinking process. Includes Substage 6: Iterative Prototyping and Substage 7: Testing and Refinement. In this stage you test your ideas with users to refine them to the most appropriate solution.|
 |Qualitative data/research:| Uses words and images as data with a focus on exploration and interpretation (e.g. interview, observation). Analyzed by themes. The type of research done most often in design thinking.|
 |Quantitative data/research: |Uses numbers as data with a focus on finding relationships and making predictions (e.g. surveys, polls). Uses statistical analysis.|
-|Reframed problem definition: A more refined and detailed explanation of the problem after learning more about the problem, the user, and the context through research. Substage 3. May include a design brief.|
+|Reframed problem definition:| A more refined and detailed explanation of the problem after learning more about the problem, the user, and the context through research. Substage 3. May include a design brief.|
 |Research stage:| The first grouping of substages of the design thinking process. Includes Substage 1: Initial Problem Description, Substage 2: Research, and Substage 3: Reframed Problem Definition. In this stage you seek to understand more about your problem, the users, and the users' context.|
 |Return on investment (ROI):| A measure of the amount of resources invested (time, people, money) to do something versus the gain in the end. A good ROI has more gain in the end than the resources invested to do it.|
 |Solution:| The end result or the thing that solves your problem at the end of the design thinking process.|
