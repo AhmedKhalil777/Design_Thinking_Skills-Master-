@@ -9,3 +9,9 @@
 - Identify the type of thinking that is done in design thinking
 - Identify characteristics for a __well-designed solution__
 ---
+## Glossary :
+|Term|Definition|
+|:-:|:-:|
+|Benchmarking| Analysis of __competitors__, __similar products__ or __existing solutions__, __trends__, etc. as part of research.|
+|Business| The 'viability' aspect of __design thinking__. Whether a __potential solution__ fits the goals of the organization, such as mission or __strategic direction__. Also financial and human resource requirements.|
+
